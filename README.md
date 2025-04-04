@@ -1,3 +1,7 @@
+DO NOT ADD RESPONSITORY AS LISTED BELOW!
+OPEN main.py
+COPY AND PASTE SECTIONS AS NEEDED FOR PROGRAM.
+
 
 > Open this page at [https://kimwerezak.github.io/readysetrobotlab-codingliteracy/](https://kimwerezak.github.io/readysetrobotlab-codingliteracy/)
 
