@@ -16,7 +16,7 @@ Model = " Escape"
 Horsepower = 210
 Zeroto60 = 4.3
 
-Show outputs of variables input
+#Show outputs of variables input
 print(Make + Model)
 basic.show_number(Horsepower)
 
