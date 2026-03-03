@@ -41,9 +41,6 @@ if Front_WD:
     basic.show_string("FWD Only")
 elif Rear_WD:
     basic.show_string("RWD Only")
-elif All_WD:
-    if Four_WD:
-        basic.show_string("FWD & 4WD")
 else:
     basic.show_string("AWD")
 
