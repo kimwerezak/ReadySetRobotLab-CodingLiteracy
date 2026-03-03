@@ -33,11 +33,6 @@ if (Front_WD) {
     basic.showString("FWD Only")
 } else if (Rear_WD) {
     basic.showString("RWD Only")
-} else if (All_WD) {
-    if (Four_WD) {
-        basic.showString("FWD & 4WD")
-    }
-    
 } else {
     basic.showString("AWD")
 }
@@ -119,6 +114,7 @@ input.onLogoEvent(TouchButtonEvent.Pressed, function HL_on() {
                 ##.##
                 #...#
                 .....
+
                 `)
 })
 input.onLogoEvent(TouchButtonEvent.LongPressed, function HL_off() {
